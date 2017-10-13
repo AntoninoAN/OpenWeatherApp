@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/tony/.android/build-cache/e50eb19bd4628d603cddf06c9926cafda192d9a5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tony/.android/build-cache/877644ac3cfd148a3b94da9c9eb10422c6778089/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/tony/.android/build-cache/91848ea76dbfbb360631d36847ac34208b89eae3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/tony/.android/build-cache/c3ec63ef067ee040561dc38f4d9bb09849d8170d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tony/.android/build-cache/0de9464aa779850cde528dc237e21c4ecb056dd3/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tony/.android/build-cache/9b72c1dcc27606e44797eae341aad432c6ef9cab/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tony/.android/build-cache/577253b6b1470331db9cff84f908616283ebd11d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tony/.android/build-cache/d85518a87d3ca3a4f591dceb85351278f4bdd8da/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/tony/.android/build-cache/a7ed8044118ec43e1d77c4dc2c3ec111cd53e0dd/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/tony/.android/build-cache/64e3916a70eb6f3edb84ea7bbb548bc8b42138e3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tony/.android/build-cache/f5c9bc02fe65a179daae90a9b996d4792980dcf4/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/tony/.android/build-cache/a9912e23c8d620c5b09d3f42f907753f8d3c4473/output/AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.tony.myweatherapp.HomeActivity
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.tony.myweatherapp.DetailActivity
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:19:19-49
+activity#com.example.tony.myweatherapp.PreferencesActivity
+ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:20:9-66
+	android:name
+		ADDED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml:20:19-54
+uses-sdk
+INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/tony/.android/build-cache/e50eb19bd4628d603cddf06c9926cafda192d9a5/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tony/.android/build-cache/877644ac3cfd148a3b94da9c9eb10422c6778089/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/tony/.android/build-cache/91848ea76dbfbb360631d36847ac34208b89eae3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/tony/.android/build-cache/c3ec63ef067ee040561dc38f4d9bb09849d8170d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tony/.android/build-cache/0de9464aa779850cde528dc237e21c4ecb056dd3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tony/.android/build-cache/9b72c1dcc27606e44797eae341aad432c6ef9cab/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tony/.android/build-cache/577253b6b1470331db9cff84f908616283ebd11d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tony/.android/build-cache/d85518a87d3ca3a4f591dceb85351278f4bdd8da/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/tony/.android/build-cache/a7ed8044118ec43e1d77c4dc2c3ec111cd53e0dd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/tony/.android/build-cache/64e3916a70eb6f3edb84ea7bbb548bc8b42138e3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tony/.android/build-cache/f5c9bc02fe65a179daae90a9b996d4792980dcf4/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/tony/.android/build-cache/a9912e23c8d620c5b09d3f42f907753f8d3c4473/output/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tony/Documents/AndroidTrainning/Trainning/MyWeatherApp/MyApplication/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/tony/.android/build-cache/e50eb19bd4628d603cddf06c9926cafda192d9a5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/tony/.android/build-cache/877644ac3cfd148a3b94da9c9eb10422c6778089/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/tony/.android/build-cache/91848ea76dbfbb360631d36847ac34208b89eae3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/tony/.android/build-cache/c3ec63ef067ee040561dc38f4d9bb09849d8170d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/tony/.android/build-cache/0de9464aa779850cde528dc237e21c4ecb056dd3/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/tony/.android/build-cache/9b72c1dcc27606e44797eae341aad432c6ef9cab/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/tony/.android/build-cache/d85518a87d3ca3a4f591dceb85351278f4bdd8da/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/tony/.android/build-cache/a7ed8044118ec43e1d77c4dc2c3ec111cd53e0dd/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/tony/.android/build-cache/64e3916a70eb6f3edb84ea7bbb548bc8b42138e3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/tony/.android/build-cache/a9912e23c8d620c5b09d3f42f907753f8d3c4473/output/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/tony/.android/build-cache/7f09b13add995d1644c9f357e10ae529b22b486c/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tony/.android/build-cache/f5c9bc02fe65a179daae90a9b996d4792980dcf4/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tony/.android/build-cache/f5c9bc02fe65a179daae90a9b996d4792980dcf4/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tony/.android/build-cache/f5c9bc02fe65a179daae90a9b996d4792980dcf4/output/AndroidManifest.xml:26:13-58

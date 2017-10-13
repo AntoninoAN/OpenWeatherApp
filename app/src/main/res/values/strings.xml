@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="hint_et_city">CITY</string>
+    <string name="hint_et_zip">ZIP</string>
+    <string name="hint_btn_search">SEARCH</string>
+    <string name="hint_switch_metrics">METRICS</string>
+    <string name="hint_et_refresh"><![CDATA[>10]]></string>
+    <string name="hint_btn_save">SAVE</string>
+</resources>
